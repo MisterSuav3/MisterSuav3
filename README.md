@@ -1,4 +1,12 @@
-### Hi there 👋
+# Oh Hello there! 
+
+🔥🔥🔥 The Journey is long and ardous 🔥🔥🔥
+
+- I'm a beginner programmer
+- Currently learning about C++
+- Trying out Godot
+- Open to learn more!
+
 
 <!--
 **MisterSuav3/MisterSuav3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
